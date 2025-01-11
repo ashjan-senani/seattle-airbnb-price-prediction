@@ -1,26 +1,4 @@
 
-<!--[if gte mso 9]><xml>
- <o:DocumentProperties>
-  <o:Author>Ashjan Rashid Salim Al-Senani</o:Author>
-  <o:Template>Normal</o:Template>
-  <o:LastAuthor>Ashjan Rashid Salim Al-Senani</o:LastAuthor>
-  <o:Revision>2</o:Revision>
-  <o:TotalTime>0</o:TotalTime>
-  <o:Created>2025-01-11T06:47:00Z</o:Created>
-  <o:LastSaved>2025-01-11T06:47:00Z</o:LastSaved>
-  <o:Pages>1</o:Pages>
-  <o:Words>10</o:Words>
-  <o:Characters>61</o:Characters>
-  <o:Company>OmanTel</o:Company>
-  <o:Lines>1</o:Lines>
-  <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>70</o:CharactersWithSpaces>
-  <o:Version>16.00</o:Version>
- </o:DocumentProperties>
- <o:OfficeDocumentSettings>
-  <o:AllowPNG/>
- </o:OfficeDocumentSettings>
-</xml><![endif]-->
 <link rel=themeData href="README_files/themedata.thmx">
 <link rel=colorSchemeMapping href="README_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
