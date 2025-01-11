@@ -25,8 +25,3 @@ The analysis revealed several key insights:
 
 The predictive model showed a reasonable degree of accuracy in forecasting prices based on the available features.
 
-## Usage Instructions
-To run this project and replicate the analysis, follow these steps:
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/ashjan-senani/seattle-airbnb-price-prediction.git
